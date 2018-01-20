@@ -1,3 +1,7 @@
 ul#errors {
   color: red;
 }
+
+.message {
+	display: block;
+}
